@@ -1,0 +1,145 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="D6B0527A-FD86-4FAB-B4AB-10A0923D4B94" platform="MtWeb" defaultW="1920" defaultH="6000" measureW="1920" measureH="2352" mobileScreenScale="0">
+  <controls controlCount="16">
+    <control controlID="67DA3475-F320-4424-85C6-30DE7D6DA603" controlTypeID="Shape" x="0" y="0" w="1920" h="64" zOrder="0">
+      <color>4278195497</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="78994022-1857-4722-8590-A8692962269B" controlTypeID="Shape" x="0" y="2209" w="1920" h="146" zOrder="1">
+      <color>4278195497</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="334C3378-398A-4EF9-9F50-659B31CCF752" controlTypeID="Image" x="240" y="0" w="1440" h="2353" zOrder="2">
+      <URL>587896CC24A27962B60B00058C268258.png</URL>
+    </control>
+    <control controlID="66E85319-EBDA-4E43-B053-78268C51D9BC" controlTypeID="Button" x="382" y="1104" w="134" h="58" zOrder="3">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="EB204513-99A5-4AF9-80F6-EFD66858C2DD" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E4%B8%BB%E9%A1%B5">
+          <area shape="0" alt="" ID="{E6653EF2-395E-40BD-B062-EC047FF82303}" coords="(0,0,134,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="CE29A50F-346E-4BF1-BBDB-08585961C869" controlTypeID="Button" x="526" y="1104" w="134" h="58" zOrder="4">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="7E35B807-1B9F-49EC-9546-5B3C50C81A4B" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E6%97%85%E6%B8%B8%E6%99%AF%E7%82%B9">
+          <area shape="0" alt="" ID="{5922F29C-C038-493F-BA08-780CCB0C6695}" coords="(0,0,134,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="0CC6435C-B3F7-4EFB-A04E-8C10E800D34F" controlTypeID="Button" x="670" y="1104" w="134" h="58" zOrder="5">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="46F90FDB-D25B-47A1-BD19-00028E486DB2" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E5%85%B3%E6%B3%A8%E6%8C%87%E6%95%B0">
+          <area shape="0" alt="" ID="{92AF943F-B3DD-4471-BD87-DA2D6A9D257A}" coords="(0,0,134,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="27684BB0-CCC2-43C2-9854-088E0AFFA161" controlTypeID="Button" x="814" y="1104" w="134" h="58" zOrder="6">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="C49FDE65-C3A2-4FF9-8243-5890EBBAA226" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E5%9C%B0%E6%96%B9%E7%89%B9%E8%89%B2">
+          <area shape="0" alt="" ID="{9EBDF55D-7624-4137-9100-553511AA58AE}" coords="(0,0,134,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="A0E5DE38-567F-4E8D-BB0A-2792761B833F" controlTypeID="Search" x="1208" y="20" w="281" h="24" zOrder="7">
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="32F67700-495F-4BFB-9A12-599FD181098A" controlTypeID="Button" x="1426" y="18" w="70" h="28" zOrder="8">
+      <borderColor>4280966026</borderColor>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5C87D8E5-FB04-40E1-B3F2-956FBD303DFA" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E6%90%9C%E4%B8%80%E6%90%9C">
+          <area shape="0" alt="" ID="{92DFC0C7-C3DF-4840-8FE2-085C3571E25E}" coords="(0,0,70,28)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%90%9C%E7%B4%A2</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="F607DD0B-3C52-4AC0-B4D2-E59C02CA7CD6" controlTypeID="Button" x="534" y="96" w="70" h="28" zOrder="9">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D6B0527A-FD86-4FAB-B4AB-10A0923D4B94" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A6%96%E9%A1%B5">
+          <area shape="0" alt="" ID="{750D4961-23DB-41BC-9428-356924C51562}" coords="(0,0,70,28)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="EB5BF25B-F8EE-44D6-B11C-FB1F6706671A" controlTypeID="ImageCarousel" x="408" y="162" w="559" h="246" zOrder="10">
+      <groupChildrenDescriptors>
+        <control controlID="093DA3BB-3FDF-47A3-9421-F799AAD5CE7D" controlTypeID="ImageBackground" x="0" y="0" w="559" h="246" zOrder="0">
+          <caption>1</caption>
+          <groupChildrenDescriptors/>
+          <URL>C531EA1F92A47F549F9B697A1E59B67E.png</URL>
+        </control>
+        <control controlID="05ECCDAE-B1D6-487C-8D5B-EB6006056A53" controlTypeID="ImageBackground" x="0" y="0" w="559" h="246" zOrder="1">
+          <caption>2</caption>
+          <groupChildrenDescriptors/>
+          <URL>3261E973FC2583CB6BC595310AC34F56.png</URL>
+        </control>
+        <control controlID="8F13732A-1C33-443D-BD81-D4021D5208CF" controlTypeID="ImageBackground" x="0" y="0" w="559" h="246" zOrder="2">
+          <caption>3</caption>
+          <groupChildrenDescriptors/>
+          <URL>0E39EDCB77B539BC48DCB9989D1C6533.png</URL>
+        </control>
+        <control controlID="FF6C14F2-3CC8-474A-BAF5-FF4EF40D5CAA" controlTypeID="ImageBackground" x="0" y="0" w="559" h="246" zOrder="3">
+          <caption>4</caption>
+          <groupChildrenDescriptors/>
+          <URL>0B73F9E5301B9DE20621815715F3E40F.png</URL>
+        </control>
+        <control controlID="C2728A2C-32D0-4B47-A1A4-77AFEBBEE2B8" controlTypeID="ImageBackground" x="0" y="0" w="559" h="246" zOrder="4">
+          <caption>5</caption>
+          <groupChildrenDescriptors/>
+          <URL>1BBB105D869D292F31E80DF9C8E5FD63.png</URL>
+        </control>
+      </groupChildrenDescriptors>
+      <selectedIndex>4</selectedIndex>
+      <playInterval>2000</playInterval>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4293980402</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

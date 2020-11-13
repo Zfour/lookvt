@@ -1,0 +1,127 @@
+﻿<project version="2.9" name="小镇" ID="D29D8531-7BD5-47B5-BDB7-6F6C5124F86A">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1920,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="D6B0527A-FD86-4FAB-B4AB-10A0923D4B94" expanded="True" code="8urUPUJrYM" thumbCode="8urUPUJrYM" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="FD04A6295C38CB4E3551B408E71512E4.png"/>
+        <image key="942D69B2DAD91BB58C9298C6322EBFF9.png"/>
+        <image key="ED410DD6D0DD23BA104E266BF28397C7.jpg"/>
+        <image key="00B95295F9BAAE8642E55FE49D35EBB3.jpg"/>
+        <image key="07074D6CB3C5D126C1C82689FBB8F533.jpg"/>
+        <image key="448CB59B21966EEDAE3C5736D99C65FF.png"/>
+        <image key="C202D670DE7B56DA112500EA7EF55591.png"/>
+      </images>
+    </page>
+    <page name="首页(资讯指数）" ID="B6370CB5-FCE3-4856-956E-4431F681569D" expanded="True" code="UGzMDEL5RS" thumbCode="UGzMDEL5RS" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="FD04A6295C38CB4E3551B408E71512E4.png"/>
+        <image key="942D69B2DAD91BB58C9298C6322EBFF9.png"/>
+        <image key="ED410DD6D0DD23BA104E266BF28397C7.jpg"/>
+        <image key="00B95295F9BAAE8642E55FE49D35EBB3.jpg"/>
+        <image key="07074D6CB3C5D126C1C82689FBB8F533.jpg"/>
+        <image key="448CB59B21966EEDAE3C5736D99C65FF.png"/>
+        <image key="C202D670DE7B56DA112500EA7EF55591.png"/>
+      </images>
+    </page>
+    <page name="小镇主页" ID="EB204513-99A5-4AF9-80F6-EFD66858C2DD" expanded="True" code="CiXEu9ln8J" thumbCode="2WYT3FHsDQ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3261E973FC2583CB6BC595310AC34F56.png"/>
+        <image key="C531EA1F92A47F549F9B697A1E59B67E.png"/>
+        <image key="59BCD395EE24017C0B88933EA03C7B8C.png"/>
+        <image key="0E39EDCB77B539BC48DCB9989D1C6533.png"/>
+        <image key="0B73F9E5301B9DE20621815715F3E40F.png"/>
+        <image key="1BBB105D869D292F31E80DF9C8E5FD63.png"/>
+      </images>
+    </page>
+    <page name="小镇旅游景点" ID="7E35B807-1B9F-49EC-9546-5B3C50C81A4B" expanded="True" code="DHWkkCTHKJ" thumbCode="DHWkkCTHKJ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3261E973FC2583CB6BC595310AC34F56.png"/>
+        <image key="51DA9B1A8EC0FB1993EF989AAA235239.png"/>
+        <image key="C531EA1F92A47F549F9B697A1E59B67E.png"/>
+        <image key="0E39EDCB77B539BC48DCB9989D1C6533.png"/>
+        <image key="0B73F9E5301B9DE20621815715F3E40F.png"/>
+        <image key="1BBB105D869D292F31E80DF9C8E5FD63.png"/>
+      </images>
+    </page>
+    <page name="小镇旅游景点详情" ID="676E4D05-D89B-4CED-A050-F9512DF49A3D" expanded="True" code="GRoPhdYb7g" thumbCode="GRoPhdYb7g" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="C0ADB131F6D1BC588B0E77F9D59F88AD.png"/>
+        <image key="C531EA1F92A47F549F9B697A1E59B67E.png"/>
+        <image key="3261E973FC2583CB6BC595310AC34F56.png"/>
+        <image key="0E39EDCB77B539BC48DCB9989D1C6533.png"/>
+        <image key="0B73F9E5301B9DE20621815715F3E40F.png"/>
+        <image key="1BBB105D869D292F31E80DF9C8E5FD63.png"/>
+      </images>
+    </page>
+    <page name="小镇关注指数" ID="46F90FDB-D25B-47A1-BD19-00028E486DB2" expanded="True" code="PqcG9NvFYL" thumbCode="PqcG9NvFYL" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3261E973FC2583CB6BC595310AC34F56.png"/>
+        <image key="C531EA1F92A47F549F9B697A1E59B67E.png"/>
+        <image key="0E39EDCB77B539BC48DCB9989D1C6533.png"/>
+        <image key="0B73F9E5301B9DE20621815715F3E40F.png"/>
+        <image key="803388505522A0F3971A087AA4661440.png"/>
+        <image key="1BBB105D869D292F31E80DF9C8E5FD63.png"/>
+      </images>
+    </page>
+    <page name="小镇地方特色" ID="C49FDE65-C3A2-4FF9-8243-5890EBBAA226" expanded="True" code="MSlKThojGM" thumbCode="MSlKThojGM" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="587896CC24A27962B60B00058C268258.png"/>
+        <image key="C531EA1F92A47F549F9B697A1E59B67E.png"/>
+        <image key="3261E973FC2583CB6BC595310AC34F56.png"/>
+        <image key="0E39EDCB77B539BC48DCB9989D1C6533.png"/>
+        <image key="0B73F9E5301B9DE20621815715F3E40F.png"/>
+        <image key="1BBB105D869D292F31E80DF9C8E5FD63.png"/>
+      </images>
+    </page>
+    <page name="小镇搜一搜" ID="5C87D8E5-FB04-40E1-B3F2-956FBD303DFA" expanded="True" code="fuPQWKilvF" thumbCode="fuPQWKilvF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="418F25182F0DA7352BAA6B142785E375.png"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="首页1" ID="9C5A4AEC-327E-4F37-A189-A9C54AEEB48E" expanded="False" code="qsHpXFx5qe" thumbCode="pCN4pSkknx" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="07074D6CB3C5D126C1C82689FBB8F533.jpg"/>
+        <image key="448CB59B21966EEDAE3C5736D99C65FF.png"/>
+        <image key="FD04A6295C38CB4E3551B408E71512E4.png"/>
+        <image key="C202D670DE7B56DA112500EA7EF55591.png"/>
+        <image key="ED410DD6D0DD23BA104E266BF28397C7.jpg"/>
+        <image key="00B95295F9BAAE8642E55FE49D35EBB3.jpg"/>
+      </images>
+    </page>
+    <page name="首页（资讯指数）" ID="C2B8FE35-E5DF-48E8-90CD-1A59B73C8138" expanded="True" code="XupS5f9Y7Y" thumbCode="JPBwNfaQFs" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="C202D670DE7B56DA112500EA7EF55591.png"/>
+        <image key="448CB59B21966EEDAE3C5736D99C65FF.png"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="C0ADB131F6D1BC588B0E77F9D59F88AD.png"/>
+    <image key="51DA9B1A8EC0FB1993EF989AAA235239.png"/>
+    <image key="942D69B2DAD91BB58C9298C6322EBFF9.png"/>
+    <image key="ED410DD6D0DD23BA104E266BF28397C7.jpg"/>
+    <image key="587896CC24A27962B60B00058C268258.png"/>
+    <image key="448CB59B21966EEDAE3C5736D99C65FF.png"/>
+    <image key="59BCD395EE24017C0B88933EA03C7B8C.png"/>
+    <image key="C531EA1F92A47F549F9B697A1E59B67E.png"/>
+    <image key="C202D670DE7B56DA112500EA7EF55591.png"/>
+    <image key="3261E973FC2583CB6BC595310AC34F56.png"/>
+    <image key="803388505522A0F3971A087AA4661440.png"/>
+    <image key="0B73F9E5301B9DE20621815715F3E40F.png"/>
+    <image key="FD04A6295C38CB4E3551B408E71512E4.png"/>
+    <image key="00B95295F9BAAE8642E55FE49D35EBB3.jpg"/>
+    <image key="07074D6CB3C5D126C1C82689FBB8F533.jpg"/>
+    <image key="0E39EDCB77B539BC48DCB9989D1C6533.png"/>
+    <image key="418F25182F0DA7352BAA6B142785E375.png"/>
+    <image key="1BBB105D869D292F31E80DF9C8E5FD63.png"/>
+  </images>
+</project>

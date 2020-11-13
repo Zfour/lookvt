@@ -1,0 +1,130 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="D6B0527A-FD86-4FAB-B4AB-10A0923D4B94" platform="MtWeb" defaultW="1920" defaultH="6000" measureW="1920" measureH="2352" mobileScreenScale="0">
+  <controls controlCount="12">
+    <control controlID="67DA3475-F320-4424-85C6-30DE7D6DA603" controlTypeID="Shape" x="0" y="0" w="1920" h="64" zOrder="0">
+      <color>4278195497</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5D1AECD6-B0D1-4559-8D35-0ACBDCA4BAB6" controlTypeID="Image" x="240" y="0" w="1440" h="1168" zOrder="1">
+      <URL>418F25182F0DA7352BAA6B142785E375.png</URL>
+    </control>
+    <control controlID="78994022-1857-4722-8590-A8692962269B" controlTypeID="Shape" x="0" y="1025" w="1920" h="146" zOrder="2">
+      <color>4278195497</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="66E85319-EBDA-4E43-B053-78268C51D9BC" controlTypeID="Button" x="382" y="1104" w="134" h="58" zOrder="3">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="EB204513-99A5-4AF9-80F6-EFD66858C2DD" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E4%B8%BB%E9%A1%B5">
+          <area shape="0" alt="" ID="{E6653EF2-395E-40BD-B062-EC047FF82303}" coords="(0,0,134,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="CE29A50F-346E-4BF1-BBDB-08585961C869" controlTypeID="Button" x="526" y="1104" w="134" h="58" zOrder="4">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="7E35B807-1B9F-49EC-9546-5B3C50C81A4B" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E6%97%85%E6%B8%B8%E6%99%AF%E7%82%B9">
+          <area shape="0" alt="" ID="{5922F29C-C038-493F-BA08-780CCB0C6695}" coords="(0,0,134,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="0CC6435C-B3F7-4EFB-A04E-8C10E800D34F" controlTypeID="Button" x="670" y="1104" w="134" h="58" zOrder="5">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="46F90FDB-D25B-47A1-BD19-00028E486DB2" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E5%85%B3%E6%B3%A8%E6%8C%87%E6%95%B0">
+          <area shape="0" alt="" ID="{92AF943F-B3DD-4471-BD87-DA2D6A9D257A}" coords="(0,0,134,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="27684BB0-CCC2-43C2-9854-088E0AFFA161" controlTypeID="Button" x="814" y="1104" w="134" h="58" zOrder="6">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5C87D8E5-FB04-40E1-B3F2-956FBD303DFA" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E5%9C%B0%E6%96%B9%E7%89%B9%E8%89%B2">
+          <area shape="0" alt="" ID="{9EBDF55D-7624-4137-9100-553511AA58AE}" coords="(0,0,134,58)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="A0E5DE38-567F-4E8D-BB0A-2792761B833F" controlTypeID="Search" x="1208" y="20" w="281" h="24" zOrder="7">
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%B9%96%E5%8D%97</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="55174F0C-00B4-4C10-B92C-AEB4E72A414C" controlTypeID="Button" x="1426" y="18" w="70" h="28" zOrder="8">
+      <borderColor>4280966026</borderColor>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5C87D8E5-FB04-40E1-B3F2-956FBD303DFA" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E6%90%9C%E4%B8%80%E6%90%9C">
+          <area shape="0" alt="" ID="{92DFC0C7-C3DF-4840-8FE2-085C3571E25E}" coords="(0,0,70,28)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%90%9C%E7%B4%A2</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="0B9F9AB6-7618-49DF-A39A-22384591579D" controlTypeID="Button" x="758" y="527" w="70" h="28" zOrder="9">
+      <opacity>0</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="EB204513-99A5-4AF9-80F6-EFD66858C2DD" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B0%8F%E9%95%87%E4%B8%BB%E9%A1%B5">
+          <area shape="0" alt="" ID="{57B8ABC1-1C6B-4AFA-88CD-57005CC72C57}" coords="(0,0,70,28)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="83990716-4A47-4AD9-A440-83CCC9396A0C" controlTypeID="StickyNote" x="1024" y="158" w="226" h="145" zOrder="10">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%82%B9%E8%BF%99%E9%87%8C%E8%BF%9B%E5%85%A5%E5%B0%8F%E9%95%87%E9%A1%B5</text>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="7AD262D6-FE70-45EF-BDD1-967551CE42AB" controlTypeID="Arrow" x="791" y="165" w="327" h="370" zOrder="11">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <controlPoint>(369,18)</controlPoint>
+      <startPoint>(321,6)</startPoint>
+      <endPoint>(6,364)</endPoint>
+      <showStartArrow>1</showStartArrow>
+      <showEndArrow>1</showEndArrow>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4293980402</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
